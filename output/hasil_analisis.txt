@@ -1,0 +1,8 @@
+HASIL ANALISIS NILAI MATEMATIKA
+================================
+Jumlah data valid: 5
+Rata-rata nilai: 80.00
+Nilai tertinggi: 90.0
+Nilai terendah: 70.0
+Jumlah lulus: 5
+Jumlah tidak lulus: 0
